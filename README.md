@@ -1,4 +1,8 @@
-# Could automation strategies be utilised to classify undiagnosed heart related diseases? & Do chest related pains have any direct correlation to the chances an individual could have a heart attack?
+# Could automation strategies be utilised to classify undiagnosed heart related diseases? 
+
+# & 
+
+# Do chest related pains have any direct correlation to the chances an individual could have a heart attack?
 
 ## Motivation of Study
 The project has utilised the means of supervised learning which corelates known data of different inputs and correct outputs provided by a data scientist/analytic(Reddy.P,2018)as for machine learning algorithms to learn from the training data as to classify/predict outputs in the future from unseen testing data(Chen.D,2021). The provided dataset for this project has utilised 303 real patient data of individuals who are classified of either having a low chance of heart disease/attacks[0] or a high chance of heart disease/attacks1which means the project will require ML-algorithms capable of classification as classification algorithms are designed to assign the unseen testing data into predict/assign sets of data into a specific category(Taha.B,2019).
